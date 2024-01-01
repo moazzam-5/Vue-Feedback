@@ -41,9 +41,10 @@
         class="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out cursor-pointer"
         >+ Feedback</router-link
       >
-      <a
+      <router-link
+        to="/dashboard"
         class="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out cursor-pointer"
-        >Pricing</a
+        >Dashboard</router-link
       >
       <a
         class="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out cursor-pointer"
